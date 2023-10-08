@@ -1,0 +1,14 @@
+C:\dev\lab4test\bin\Debug\net7.0\lab4test.exe
+C:\dev\lab4test\bin\Debug\net7.0\lab4test.deps.json
+C:\dev\lab4test\bin\Debug\net7.0\lab4test.runtimeconfig.json
+C:\dev\lab4test\bin\Debug\net7.0\lab4test.dll
+C:\dev\lab4test\bin\Debug\net7.0\lab4test.pdb
+C:\dev\lab4test\obj\Debug\net7.0\lab4test.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\lab4test\obj\Debug\net7.0\lab4test.AssemblyInfoInputs.cache
+C:\dev\lab4test\obj\Debug\net7.0\lab4test.AssemblyInfo.cs
+C:\dev\lab4test\obj\Debug\net7.0\lab4test.csproj.CoreCompileInputs.cache
+C:\dev\lab4test\obj\Debug\net7.0\lab4test.dll
+C:\dev\lab4test\obj\Debug\net7.0\refint\lab4test.dll
+C:\dev\lab4test\obj\Debug\net7.0\lab4test.pdb
+C:\dev\lab4test\obj\Debug\net7.0\lab4test.genruntimeconfig.cache
+C:\dev\lab4test\obj\Debug\net7.0\ref\lab4test.dll
